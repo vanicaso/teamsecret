@@ -3,3 +3,4 @@ git add. ->añadir todo
 git status para ver q archivos faltan hacer commit
 git commit -m "ddd"
 git push origin master ->subir todos los cambios a github
+-----------------
