@@ -9,7 +9,7 @@ cat > archivo.txt -> crear un archivo .txt
  touch archivo.txt-> crear un archivo .txt o lo reeemplaza
 cd carpeta <> ingresa a carpeta
 ls -> archivos de carpeta
-ls -> archivos ocultas carpetas todo
+ls -la-> archivos ocultas carpetas todo
 cd .. ->retroceder una carpeta
 cat archivo.txt -> ver contenido de .txt
 start archivo.txt -> abrir para modificar
