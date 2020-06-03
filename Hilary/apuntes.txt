@@ -5,6 +5,7 @@ git commit -m "ddd"
 git push origin master ->subir todos los cambios a github
 -----------------
 mkdir -> crear carpeta
-cat > archivo.txt -> crear un archivo .txt
+cat > archivo.txt o touch archivo.txt-> crear un archivo .txt
 cd carpeta <> ingresa a carpeta
 ls -> archivos de carpeta
+cd .. ->retroceder una carpeta
