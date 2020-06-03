@@ -1,14 +1,14 @@
------------------------------COMANDOS BASICOS PARA UN BUEN USO DE GIT---------------------------------------
-* git init 			Git, voy a usar estos documentos contigo
-* git add <file> 		Pasa los docs a staging area 
-* git add . 			Pasa todos los archivos
+---------------COMANDOS BASICOS PARA UN BUEN USO DE GIT----------------------
+* git init 			        Git, voy a usar estos documentos contigo
+* git add <file> 		    Pasa los docs a staging area 
+* git add . 			    Pasa todos los archivos
 * git commit -m "comentario" 	
-* git status 			Ver en que status (wd, sa, r) están los docs
+* git status 			    Ver en que status (wd, sa, r) están los docs
 * git push origin master	Subir los docs a un server (Github)
-* git pull  			Traer los docs de un server, traer los cambios de tus compañeros
-* git clone 			Hacerte una copia del repositorio
-* git diff <file> 		Para ver las diferencias hechas en los archivos
-* git branch 			Ver las ramas que hay ("master" es la rama default)
+* git pull  			    Traer los docs de un server, traer los cambios de tus compañeros
+* git clone 			    Hacerte una copia del repositorio
+* git diff <file> 		    Para ver las diferencias hechas en los archivos
+* git branch 			    Ver las ramas que hay ("master" es la rama default)
 * git branch "nombre" 		Crear una nueva rama
 * git checkout "nombre" 	Ir a una rama en especifico
 * git checkout -- <file> 	Para revertir los cambios de los archivos 
@@ -23,10 +23,10 @@ Escribe dentro de el archivo .gitignore los nombres de los archivos que desees i
 Nota: Las carpetas se escriben sin extension y los archivos con su extesion.
 -----------------------------------------------------------------------------------------------
 mkdir nombreCarpeta 		crear carpeta
-cat > archivo.txt 		crear un archivo .txt
-cat archivo.txt  		ver contenido de .txt
-touch archivo.txt		crear un archivo .txt o lo reeemplaza
-cd carpeta 			ingresa a carpeta
-cd .. 				retroceder una carpeta
-ls  				archivos de carpeta
-start archivo.txt 	 	abrir para modificar
+cat > archivo.txt 		    crear un archivo .txt
+cat archivo.txt  		    ver contenido de .txt
+touch archivo.txt		    crear un archivo .txt o lo reeemplaza
+cd carpeta 			        ingresa a carpeta
+cd .. 				        retroceder una carpeta
+ls  				        archivos de carpeta
+start archivo.txt 	 	    abrir para modificar
