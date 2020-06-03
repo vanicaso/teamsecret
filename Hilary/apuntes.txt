@@ -1,0 +1,10 @@
+git pull -subir
+git add. ->añadir todo
+git status para ver q archivos faltan hacer commit
+git commit -m "ddd"
+git push origin master ->subir todos los cambios a github
+-----------------
+mkdir -> crear carpeta
+cat > archivo.txt -> crear un archivo .txt
+cd carpeta <> ingresa a carpeta
+ls -> archivos de carpeta
