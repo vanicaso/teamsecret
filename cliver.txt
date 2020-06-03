@@ -1,2 +1,10 @@
-hacker
----cambio1
+git add archivo.extencion
+
+git pull
+
+git commit -m "mensaje"
+
+git push origin master
+
+git status
+
