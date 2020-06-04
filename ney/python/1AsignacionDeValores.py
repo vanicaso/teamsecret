@@ -1,28 +1,25 @@
-#no es necesario colocar el tipo de dato
+# no es necesario colocar el tipo de dato
 numero = 10
-#para imprimir
+# para imprimir
 print(numero)
-#imprimir el tipo de dato
-print(type(numero)) 
+# imprimir el tipo de dato
+print(type(numero))
 
-#esto es una cadena no un caracter
+# esto es una cadena no un caracter
 cadena = 'a'
-#modo de mostrar las comillas en una cadena de texto
+# modo de mostrar las comillas en una cadena de texto
 cadena2 = "estoy 'cantando'"
 
-#un booleando True/False
+# un booleando True/False
 boleano = True
 print(type(boleano))
-#concatenaciones
-print("hola " + "maria")
+# concatenaciones
+print("hola " + "hILARY")
 print("hola " + str(numero))
 print(numero + 10)
 
-#tipado dinamico
+# tipado dinamico
 numcad = 50
 print(numcad)
 numcad = "era un numero"
 print(numcad)
-
-
-
